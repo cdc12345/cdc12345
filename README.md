@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 一个专注于Java开发的菜鸟程序员
 
 [![My stats](https://github-readme-stats.vercel.app/api?username=cdc12345&hide_border=true&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![cdc12345's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=cdc12345&show_icons=true&count_private=true&theme=gotham)
