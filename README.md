@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-一个专注于Java开发的菜鸟程序员
+Thank you very much
 
 [![My stats](https://github-readme-stats.vercel.app/api?username=cdc12345&hide_border=true&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cdc12345&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
