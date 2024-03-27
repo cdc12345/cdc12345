@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 Thank you very much
 
 [![My stats](https://github-readme-stats.vercel.app/api?username=cdc12345&hide_border=true&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cdc12345&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-# 娟姐你他妈,88给的真好,我他妈是商人,所有东西按价值售卖,你倒好,多给钱,乱我商德,死不足惜,早死早超生!!!!
