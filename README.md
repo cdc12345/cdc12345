@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 
 Chinese translator and amateur java developer
 
-[![My stats](https://github-readme-stats.vercel.app/api?username=cdc12345&hide_border=true&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cdc12345&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+I'm currently working on a MCN
+
+A minecraft lover
