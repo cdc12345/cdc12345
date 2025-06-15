@@ -17,6 +17,6 @@ Chinese translator and amateur java developer
 
 I'm currently working on a MCN
 
-A minecraft lover
+A minecraft lover and music lover
 
 那一天的寂寞，寂寞起来！
