@@ -18,5 +18,3 @@ Chinese translator and amateur java developer
 I'm currently working on a MCN
 
 A minecraft lover and music lover
-
-番茄炒蛋，好吃😋
